@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Black+Ops+One|Baloo+Paaji|Chewy|Concert+One|Fredoka+One|Knewave|Nosifer|Special+Elite|Walter+Turncoat|Arbutus|Amita|Bangers|Permanent+Marker|New+Rocker|Della+Respira|Faster+One|Ewert|Rye|UnifrakturMaguntia|Vast+Shadow|Pirata+One|Sonsie+One|Share+Tech+Mono|Swanky+and+Moo+Moo|Lobster|Cabin+Sketch|UnifrakturCook:700');
+
+#girl{
+ width: 500px;
+ height: 300px;
+}
+#anime{
+    font-family: 'Della Respira', cursive;
+    color: gold;
+    font-size: 30px;
+     text-align: center;
+    }
+   img {
+    vertical-align: text-bottom;
+}
+a{
+     color: gold;
+}
+header{
+color: #209920;
+font-size: 60px;
+font-family: 'UnifrakturCook';
+ text-align: center;
+}
+.link:link {
+    text-decoration: none;
+}
+html{
+ background-color: black;
+ text-shadow: 0px 0px 99px;
+ text-align: center;
+}
+#destiny{
+ width: 600px;
+ height: 400px;
+}
+#games{
+    font-size: 30px;
+    color: #47ceff;
+ font-family: 'Black Ops One';
+ text-align: center;
+}
+#bungie{
+ color: #47ceff;   
+}
+#rick{
+    width: 550px;
+    height: 250px;
+}
+#book{
+ width: 300px;
+ height: 400px;
+}
+#read{
+    font-size: 30px;
+color: #95ed12;
+font-family: 'Walter Turncoat', monospace;
+text-align: center;
+}
+#riordan{
+ color: #95ed12;
+}
+#name{
+    font-size: 123%;
+    font-family:'Rye';
+}
+button{
+font-size: 180%;
+background:transparent;
+    border:none;
+    outline:none;
+}
+#SU{
+    font-family: 'Baloo Paaji';
+ color: #ff87df;
+font-size: 30px; 
+}
+
+#steven{
+    height: 350px;
+    width: 590px;
+}
+
+.plot{
+  color: #ff87df;
+  text-decoration: none;
+}
