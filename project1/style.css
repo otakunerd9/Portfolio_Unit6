@@ -65,10 +65,11 @@ text-align: center;
     font-family:'Rye';
 }
 button{
+    color: white;
 font-size: 180%;
 background:transparent;
-    border:none;
     outline:none;
+    border:transparent;
 }
 #SU{
     font-family: 'Baloo Paaji';

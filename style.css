@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://orig15.deviantart.net/f486/f/2015/096/4/5/otaku_wallpaper_1_by_legendaryrey-d8opa08.png");
       background-size: cover;
       color: white;
     }
@@ -8,7 +8,7 @@
       color: white;
     }
     h1 {
-      font-size: 70px;
+      font-size: 70px; 
     }
     img {
       margin: 40px 0px 0px 0px;
@@ -38,3 +38,12 @@
         display: block;
       }
     }
+    profile {
+     position: 0px;
+    }
+    
+    
+    
+    <!--images/banner.jpg
+    http://img.wallpaperfolder.com/f/79AB8553B95A/anonymous-mask-high-definition-fullscreen.jpg
+    -->
